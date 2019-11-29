@@ -10,5 +10,5 @@
 * **Install SASS** 
   * $ npm install -g sass  
 * **Compile SASS to CSS** 
-  * sass --watch style.scss:style.css
+  * $ sass --watch style.scss:style.css
 * **Open index.html**
