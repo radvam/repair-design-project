@@ -1,8 +1,8 @@
 # repair-design-project
 
-[Deploy project on the gh-pages](https://radvam.github.io/repair-design-project/)
+## [Deploy project on the gh-pages](https://radvam.github.io/repair-design-project/)
 
-## Or open project locally
+## Or open project locally:
 * **Clone repository** 
   * $ git clone git@github.com:radvam/repair-design-project.git
 * **Go to project folder in git-bash** 
